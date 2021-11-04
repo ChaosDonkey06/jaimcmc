@@ -1,0 +1,2 @@
+# jaimcmc
+My MCMC implementation :)!
